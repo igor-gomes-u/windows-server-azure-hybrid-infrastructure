@@ -1,0 +1,11 @@
+# Local and sensitive files
+*.csv
+*.log
+*.tmp
+.env
+.env.*
+secrets/
+credentials/
+*.pfx
+*.p12
+*.key
