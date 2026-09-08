@@ -1,5 +1,6 @@
 # Local and sensitive files
 *.csv
+!powershell/employees.example.csv
 *.log
 *.tmp
 .env

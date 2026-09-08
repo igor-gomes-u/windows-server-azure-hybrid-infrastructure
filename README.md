@@ -149,7 +149,6 @@ The cloud work included practical experience with:
 - synchronized users and groups
 - Azure tenant administration
 - Microsoft 365 and Outlook
-- Azure tenant administration
 - Azure virtual infrastructure
 - Azure Files
 - Windows File Server hosted in an Azure virtual machine
@@ -247,9 +246,9 @@ The following evidence demonstrates a Windows Server 2022 File Server hosted in 
 
 ## Security and Publication
 
-The project was developed in an academic lab environment using fictitious organizational data.
+The project was developed in a temporary academic lab environment using fictitious organisational data.
 
-The public repository excludes credentials, passwords and unnecessary environment-specific identifiers. Published automation and screenshots are selected or sanitized where appropriate while preserving the technical implementation demonstrated by the original project.
+The repository does not contain passwords, credentials or access keys. Some screenshots and historical documentation retain identifiers from the original lab environment to preserve technical evidence of the implementation. These identifiers relate to a completed and decommissioned academic environment and do not provide access to active resources.
 
 The original Windows Server documentation is retained as historical technical evidence from the completed lab environment.
 
